@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-gold-500 {
+  background-color: #D4AF37;
+}
+
+.bg-gold-600 {
+  background-color: #C49A2C;
+}
+
+.hover\:bg-gold-600:hover {
+  background-color: #C49A2C;
+}
